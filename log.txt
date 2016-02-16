@@ -1,0 +1,11 @@
+commit b7a00c7e80180a1a46da0fc8dd34267ad0e00abb
+Author: Oshmyana Ivan <vanyaoshmyana@gmail.com>
+Date:   Tue Feb 16 12:12:57 2016 +0300
+
+    add status.txt
+
+commit 5fbeedd9e2fb2ecc90cada38fec1816a5e0adcb5
+Author: Oshmyana Ivan <vanyaoshmyana@gmail.com>
+Date:   Tue Feb 16 12:11:14 2016 +0300
+
+    add .gitignore
